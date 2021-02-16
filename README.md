@@ -1,0 +1,1 @@
+Apenas uma API construida com modelagem simples para estudos de node e uso de git e github
